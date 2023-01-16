@@ -1,3 +1,3 @@
-# Asmir-rainbow-inicorn
+# Asmir-rainbow-unicorn
 
 övning med typescript
